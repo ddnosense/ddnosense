@@ -2,10 +2,10 @@
 # Editando o perfil
 - 👋 Hi, I’m @ddnosense
 - Pronounms he/him :)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 
+- 🌱 I’m currently learning nada
+- 💞️ I’m looking to collaborate on nada
+- 📫 How to reach me nao sei
 
 <!---
 ddnosense/ddnosense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
